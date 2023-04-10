@@ -1,2 +1,1 @@
-# Practice-git
-Práxctica equipo Git
+Viva el Betis
